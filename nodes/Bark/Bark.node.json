@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-base.bark",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Utility"],
+	"resources": {
+			"credentialDocumentation": [
+					{
+							"url": "https://github.com/IcedMango/n8n-nodes-bark"
+					}
+			],
+			"primaryDocumentation": [
+					{
+							"url": "https://github.com/IcedMango/n8n-nodes-bark"
+					}
+			]
+	},
+	"alias": ["Bark"]
+}

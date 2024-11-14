@@ -6,7 +6,17 @@ This project is about a community node for n8n, which allows notifications to be
 
 For more information about Bark, please refer to the [Bark documentation](https://bark.day.app/#/tutorial).
 
-> Note: The documentation above is in Chinese.
+> **Note: The documentation above is in Chinese.**
+
+> If you encountered any issue, feel free to open an issue at [IcedMango/n8n-nodes-bark](https://github.com/IcedMango/n8n-nodes-bark/issues/new)
+
+
+
+**简体中文文档**  [👉点击这里打开](https://github.com/IcedMango/n8n-nodes-bark/blob/master/README.zh-CN.md)
+
+
+
+
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
@@ -16,7 +26,6 @@ For more information about Bark, please refer to the [Bark documentation](https:
 [Compatibility](#compatibility)  
 [Parameters](#Parameters)  
 [Resources](#resources)  
-[Version history](#version-history)  
 [License](#license) 
 
 
@@ -72,7 +81,7 @@ Dev & Test using n8n v1.67.0
 
 ## License
 
-Distribute under [MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md) License. 
+Distribute under [MIT](https://github.com/IcedMango/n8n-nodes-bark/blob/master/LICENSE.md) License. 
 
 ## CLA Agreement
 

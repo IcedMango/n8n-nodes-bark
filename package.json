@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-bark",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "An n8n node for bark push.",
   "keywords": [
     "n8n-community-node-package"

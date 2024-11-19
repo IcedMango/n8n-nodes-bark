@@ -1,9 +1,12 @@
 {
   "name": "n8n-nodes-bark",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "An n8n node for bark push.",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "bark",
+    "bark-server",
+    "iOS"
   ],
   "license": "MIT",
   "homepage": "https://github.com/IcedMango/n8n-nodes-bark",

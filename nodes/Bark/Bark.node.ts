@@ -9,7 +9,7 @@ export class Bark implements INodeType {
 		icon: 'file:bark.png',
 		group: ['transform'],
 		version: 1,
-		subtitle: '={{$parameter["operation"] + ": " + $parameter["resource"]}}',
+		subtitle: '={{$parameter["operation"]}}',
 		description: 'Push custom notification to your iOS device.',
 		defaults: {
 			name: 'Bark Push',

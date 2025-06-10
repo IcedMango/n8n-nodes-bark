@@ -52,6 +52,7 @@ export class Bark implements INodeType {
 									icon: '={{$parameter.icon}}',
 									isArchive: '={{$parameter.isArchive}}',
 									url: '={{$parameter.url}}',
+									group: '={{$parameter.group}}'
 								},
 							},
 							operations: {},

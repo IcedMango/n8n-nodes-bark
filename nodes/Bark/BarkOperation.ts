@@ -106,6 +106,13 @@ export const BarkPushOperation: INodeProperties[] = [
 				default: '',
 				description: 'Redirect URL. Support URL Scheme & Universal Link.',
 			},
+			{
+				displayName: 'Group',
+				name: 'group',
+				type: 'string',
+				default: '',
+				description: 'Custom Nofitication group'
+			}
 		],
 		displayOptions: {
 			show: {
